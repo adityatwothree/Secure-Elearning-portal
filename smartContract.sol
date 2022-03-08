@@ -25,7 +25,7 @@ contract cert{
         _;
     }
     
-    event coll_added(string name);//event when college is added
+    event coll_added(string name);//event when college is add
     
     event certadded(string fname,string lname,string course,string cname);
     
